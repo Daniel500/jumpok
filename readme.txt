@@ -3,4 +3,4 @@ Daniel is using Git now GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick.
-Hello will
+Git is a free software
